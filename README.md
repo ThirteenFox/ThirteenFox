@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThirteenFox
 - 👀 I’m interested in all coding, ethical hacking, tech gadgets, & more!
-- 🌱 I’m currently learning Linux on Android and Windows 10
+- 🌱 I’m a lone learner of linux and well, everthing coding and programming wise! Currently using Kali Purple and RHEL!
 - 
 - 📫 How to reach me @ wvbusch@proton.me
 
